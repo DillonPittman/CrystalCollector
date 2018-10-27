@@ -1,0 +1,11 @@
+.images {
+    width: 240px;
+    height: 240px;
+}
+.scores{
+    background-color: #E9ECEF;
+    opacity: .7;
+}
+.jumbotron{
+    opacity: .7;
+}
