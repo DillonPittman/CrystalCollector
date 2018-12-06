@@ -1,3 +1,5 @@
+https://dillonpittman.github.io/CrystalCollector/
+
 Crystal Collector is our first jQuery homework assignment.
 The user interacts with four onclick elements to perform all the game's functions.
 
